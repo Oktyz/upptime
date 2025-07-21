@@ -9,6 +9,12 @@ sites:
     url: https://cloudflare.com
   - name: Spotify
     url: https://open.spotify.com/
+  - name: Facebook
+    url: https://facebook.com
+  - name: Instagram
+    url: https://instagram.com
+  - name: X
+    url: https://x.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
