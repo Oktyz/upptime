@@ -76,18 +76,20 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 751,
-    "timeWeek": 973,
-    "timeMonth": 823,
-    "timeYear": 823,
-    "dailyMinutesDown": {}
+    "time": 818,
+    "timeDay": 756,
+    "timeWeek": 946,
+    "timeMonth": 818,
+    "timeYear": 818,
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   },
   {
     "name": "Github",
